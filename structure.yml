@@ -25,10 +25,6 @@ parttime_experiences:
   title: アルバイト経験
   company: 会社名
   detail: 内容（書ける範囲で書いてください）
-internship_experiences:
-  title: インターン経験
-  company: 会社名
-  detail: 内容（書ける範囲で書いてください）
 what_you_want_to_achieve_in_cookpad: クックパッドで実現したいこと
 enthusiasm_for_engineering: 学生時代にエンジニアリングに関して熱中して取り組んできたこと
 other_appeal_points: その他アピールポイント
