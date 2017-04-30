@@ -1,58 +1,58 @@
-name: クック ぱど見
+name: Gantumur Amarzul
 resume:
   backgrounds:
-    - name: ◯☓大学大学院 △□研究科 ▼●専攻 N年生
-      lab: XXXX研究室所属
-      thesis_theme: KKKKにおけるAAAAを利用したVVVV効果の検証
-      year: 2018年3月卒業見込み
-    - name: ◯☓大学 △□学部 N年生
-      lab: XXXX研究室所属
-      thesis_theme: ZZZZにおけるYYYYを利用したQQQQ効果の検証
-      year: 2016年3月卒業
-    - name: XYZ高校
-      year: 2012年3月卒業
+    - name: 電気通信大学 情報理工学部 ４年生
+      lab: 山本研究室所属
+      thesis_theme: Twitterを利用したデータ分析
+      year: 201８年3月卒業
+    - name: 仙台高等専門学校
+      year: 201６年３月卒業
 social_accounts:
-  github: __padomi__
+  github: amarzul07
 engineering:
   why_start_programming: |
-    高校生の時に友人とゲームのコミュニティーサイトを作ることになり、ユーザ登録などの機能を実装する上で勉強したのがきっかけ。
+   　　　facebookを使いはじめて、どこでもだれでも使っているのが素晴らしくて感動した。
+      そのときからプログラマーになって新しいアプリなどを開発したいと思った。
   interesting_points: |
-    自分で作ったものが動くのを見るのが楽しい。
+    プログラマーという違う世界を使って、面白いものを作ることが楽しい。
   skill_levels:
     elements:
       - element: C言語
+        level: ２
+        years: ３
+        explanation: |
+          授業で習った。
+      - element: Javascript
         level: 1
         years: 1
         explanation: |
-          授業で習った
-      - element: Java
-        level: 1
-        years: 1
+          アルバイトで主に使っている。
+      - element: PHP
+        level: ２
+        years: １
         explanation: |
-          授業で習った
-      - element: Ruby
-        level: 3
-        years: 2
+          アルバイトで主に使っている。
+      - element: Python
+        level: １
+        years: １
         explanation: |
-          趣味で作るプロダクトはすべてRubyで書いています
+          研究で主に使っている。
     favorite_language: |
-      Rubyが一番経験が長いので得意です
+      PHPがよく使っていて、得意です。
     pr: |
-      新しいことには積極的に挑戦していて、いまはAWSでインフラ周りの勉強をしています。
+      自分から様々なことを発言して、新しいものを作りたい。
+      プログラミングのバイトしているので、経験がある。
+      モンゴル留学生会の副会長であり、積極的である。
 parttime_experiences:
-  - company: Z社
+  - company: 株式会社シグナイト
     detail: |
-      新規サービスのAndroidアプリ化を担当中
-internship_experiences:
-  - company: クックパッド
-    detail: |
-      会員事業部でユーザの行動データの分析
-  - company: R社
-    detail: |
-      新規事業開発部署でAndroidアプリの開発
+      CakePHP,Javascript,Wordpressを使ってホームページの機能修正などを行っている。
 what_you_want_to_achieve_in_cookpad: |
-  おばあちゃんの煮物が好きなのでそういうのを世界中の人で共有できるようにしたいです。
+  世界中の人に様々な国の料理のレシピを使いやすいウェブページで提供したい。
 enthusiasm_for_engineering: |
-  友達と作成したゲームに結構ユーザーが付いたのでユーザーを飽きさせないように日々アップデートを繰り返していたのが忙しかったけど楽しかったです。
+  頑張ればできないことがない世界である。
+  最初は作れるかどうかわからない状態から始まるけど、作り終わったら自慢したくなる。
+  その世界が楽しい。
 other_appeal_points: |
-  ゲーム好きが高じてゲームの UI/UX の研究も行っていたのでフロント周りも出来ます！
+  アルバイトでコード書くだけではなく、Illustrator Photoshopも使っていた経験がある。
+  また、新しいものを作りたい気持ちが満々であるので、将来的に環境があればもっと面白いアプリを作れると思う。
